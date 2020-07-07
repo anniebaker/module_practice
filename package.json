@@ -18,6 +18,6 @@
   "homepage": "https://github.com/anniebaker/module_practice#readme",
   "dependencies": {
     "lodash": "^4.17.11",
-    "npm": "^6.9.0"
+    "npm": "^6.14.6"
   }
 }
