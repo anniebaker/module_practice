@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/anniebaker/module_practice#readme",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "npm": "^6.9.0"
   }
 }
